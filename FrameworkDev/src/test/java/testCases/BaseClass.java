@@ -51,6 +51,8 @@ public class BaseClass {
 		  
 	      // launch application
 	      driver.get(baseUrl);
+	      
+	      logger.info("browser run successfully");   
 	   }
 	   
 	   @Test
