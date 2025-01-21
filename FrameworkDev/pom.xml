@@ -114,7 +114,7 @@
 					<configuration>
 						<suiteXmlFiles>
 							<suiteXmlFile>
-								C:\Users\DELL\eclipsework3\FrameworkDev\testng2.xml</suiteXmlFile>
+								testng2.xml</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
