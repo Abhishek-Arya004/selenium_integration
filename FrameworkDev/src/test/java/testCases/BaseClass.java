@@ -67,7 +67,7 @@ public class BaseClass {
 	      // quitting browser
 	      driver.quit();
 	      
-	      logger.info("quit stopped successfully"); 
+	     // logger.info("quit stopped successfully"); 
 	   }
 
 }
