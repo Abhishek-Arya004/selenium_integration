@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-20T07:40:56 IST" name="Suite" finished-at="2025-01-20T07:42:58 IST" duration-ms="122224">
+    <groups>
+    </groups>
+    <test started-at="2025-01-20T07:40:56 IST" name="RegisterUser.java" finished-at="2025-01-20T07:42:58 IST" duration-ms="122224">
+      <class name="testCases.RegisterUserTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.RegisterUserTest@44c03695]" started-at="2025-01-20T07:40:56 IST" name="setup" finished-at="2025-01-20T07:42:12 IST" duration-ms="75320" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testbase()[pri:0, instance:testCases.RegisterUserTest@44c03695]" started-at="2025-01-20T07:42:12 IST" name="testbase" finished-at="2025-01-20T07:42:12 IST" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testbase -->
+        <test-method signature="registerUser()[pri:0, instance:testCases.RegisterUserTest@44c03695]" started-at="2025-01-20T07:42:12 IST" name="registerUser" finished-at="2025-01-20T07:42:40 IST" duration-ms="28067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegisterUserTest@44c03695]" started-at="2025-01-20T07:42:40 IST" name="tearDown" finished-at="2025-01-20T07:42:58 IST" duration-ms="17830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.RegisterUserTest -->
+    </test> <!-- RegisterUser.java -->
+  </suite> <!-- Suite -->
+</testng-results>
