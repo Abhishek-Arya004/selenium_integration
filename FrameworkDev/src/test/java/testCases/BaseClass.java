@@ -58,7 +58,7 @@ public class BaseClass {
 	   @Test
 	   void testbase() {
 		   
-		   logger.info("BaseClass run successfully");   
+		   logger.info("Base Class run successfully");   
 		   
 	   }
 	   @AfterClass
